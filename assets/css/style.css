@@ -752,7 +752,7 @@ h2.subtitle::after {
 
 .logo-wrapper img {
     max-width: 230px;
-    max-height: 55px;
+    max-height: 77px;
 }
 
 .support-bar {
@@ -905,7 +905,7 @@ h2.subtitle::after {
 }
 
 .navbar-area nav ul li a {
-    color: #fff;
+    color: #000;
     text-transform: uppercase;
     padding: 0px;
     font-weight: 600;
@@ -2125,7 +2125,7 @@ footer .logo-wrapper {
 
 footer .logo-wrapper img {
     max-width: 230px;
-    max-height: 55px;
+    max-height: 77px;
 }
 
 footer .top-footer {
@@ -2629,7 +2629,7 @@ footer .bottom-footer {
 }
 
 .header-area.sticky-navbar.home-3 .support-nav-area {
-    background-color: #1f415f;
+    background-color: #fffff;
     border: none;
 }
 
@@ -4376,7 +4376,7 @@ div#map {
 }
 
 .pricing-tables {
-    color: #ffffff;
+    color: #1f415ff;
     width: 100%;
 }
 
@@ -4418,7 +4418,7 @@ div#map {
 }
 
 .pricing-tables header {
-    color: #ffffff;
+    color: #1f415ff;
 }
 
 .pricing-tables .plan-title {
@@ -4486,7 +4486,7 @@ div#map {
 
 .pricing-tables .plan-select a {
     background-color: #58bed3;
-    color: #ffffff;
+    color: #1f415ff;
     text-decoration: none;
     padding: 12px 20px;
     font-size: 0.75em;
@@ -5655,7 +5655,7 @@ button.cartbtn {
 }
 
 .cartbtn:hover {
-    background-color: #ffffff;
+    background-color: #1f415ff;
     border: 1px solid #1f415f;
     color: #1f415f;
 }
@@ -5666,7 +5666,7 @@ a.cartbtn.shop {
 }
 
 a.cartbtn.shop:hover {
-    background-color: #ffffff;
+    background-color: #1f415ff;
     color: #1f415f;
 }
 
@@ -5704,7 +5704,7 @@ a.cartbtn.shop:hover {
 .coupon-input button {
     border: none;
     background-color: #1f415f;
-    color: #ffffff;
+    color: #1f415ff;
     text-transform: uppercase;
     font-weight: 600;
     padding: 0px 50px;
